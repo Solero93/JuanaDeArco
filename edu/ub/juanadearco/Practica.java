@@ -6,7 +6,7 @@ import edu.ub.juanadearco.actors.Brayan;
 import edu.ub.juanadearco.actors.Escut;
 
 /**
- * @author Christian José Soler
+ * @author 
  * Programació I: Projecte final
  * Grup F
  */
